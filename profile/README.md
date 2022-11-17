@@ -12,7 +12,7 @@
 
 ## Jupiter SDKs and tools
 
-- [@jup-ag/core npm package]()
+- [@jup-ag/core npm package](https://www.npmjs.com/package/@jup-ag/core)
 - [quote api nodejs bindings](https://github.com/jup-ag/jupiter-quote-api-node)
 - [nodejs CLI tool to manage fee wallet](https://github.com/jup-ag/jupiter-cli)
 - [jupiter program anchor-gen](https://github.com/jup-ag/jupiter-cpi)
