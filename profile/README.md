@@ -21,7 +21,8 @@
 
 ## Examples
 
-- [nextjs @jup-ag/core example](https://github.com/jup-ag/jupiter-nextjs-example)
+- [nextjs @jup-ag/react-hook example](https://github.com/jup-ag/jupiter-nextjs-example)
+- [nextjs @jup-ag/api example](https://github.com/jup-ag/jupiter-api-nextjs-example)
 - [nodejs @jup-ag/core example](https://github.com/jup-ag/jupiter-core-example)
 
 ## Integrated AMM SDKs
