@@ -17,7 +17,7 @@
 - [nodejs CLI tool to manage fee wallet](https://github.com/jup-ag/jupiter-cli)
 - [jupiter program anchor-gen](https://github.com/jup-ag/jupiter-cpi)
 - [Instruction parser for indexing](https://github.com/jup-ag/instruction-parser)
-- [quote api rust bindings (obsolete)](https://github.com/jup-ag/jupiter-quote-api-rs)
+- [quote api rust bindings](https://github.com/jup-ag/jupiter-quote-api-rs)
 
 ## Examples
 
