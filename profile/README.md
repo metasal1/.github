@@ -4,10 +4,16 @@
 <p align="center">
     <a href="https://discord.gg/jup">
         <img src="https://img.shields.io/discord/897540204506775583?logo=discord"
-            alt="chat on Discord"></a>
+            alt="chat on Discord">
+    </a>
     <a href="https://twitter.com/intent/follow?screen_name=JupiterExchange">
         <img src="https://img.shields.io/twitter/follow/JupiterExchange?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
+            alt="follow on Twitter">
+    </a>
+    <a href="https://status.jup.ag/">
+        <img src="https://img.shields.io/badge/Statuspal-4934BF?logo=statuspal&logoColor=fff&style=flat"
+            alt="Statuspal page">
+    </a>
 </p>
 
 ## Jupiter SDKs and tools
